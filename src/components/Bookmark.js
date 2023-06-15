@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function PokemonDetails() {
+export default function Bookmark() {
   return (
     <div>
       
