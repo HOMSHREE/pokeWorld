@@ -3,7 +3,7 @@ import React from 'react'
 export default function Pokecard() {
   return (
     <div>
-     <div id="pokedex">
+     {/* <div id="pokedex">
         <div id="top">
             <div id="top-bar">
                 <input
@@ -14,7 +14,7 @@ export default function Pokecard() {
                 <span id="number">#001</span>
             </div>
             <div id="poke-image-placeholder">
-                {/* <img src="images/1.png" id="pokemon-image" alt="pokemon-image" /> */}
+                 <img src="images/1.png" id="pokemon-image" alt="pokemon-image" /> 
             </div>
         </div>
         <div id="data">
@@ -93,7 +93,7 @@ export default function Pokecard() {
             </div>
 
         </div>
-    </div>
+    </div> */}
     </div>
   )
 }
